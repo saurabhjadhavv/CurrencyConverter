@@ -64,3 +64,4 @@ function getExchangeRate() {
         exchangeRateTxt.innerText = "Oops !! something went wrong";
     });
 }
+

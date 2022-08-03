@@ -129,3 +129,19 @@ form button {
 form button:hover {
     background: #4534fe;
 }
+
+.footer {
+    
+    display: block;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.footer a{
+    color: #0e6cca;
+    padding: 5px;
+}
+.footer a:hover{
+    color: #4534fe;
+}
